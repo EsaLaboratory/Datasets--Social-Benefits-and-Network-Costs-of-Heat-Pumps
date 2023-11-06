@@ -21,4 +21,5 @@ This file has 41 rows, corresponding to the 32 Scotland LAs and 9 England govern
 Please reach our paper for more details and the methodology behind.
 
 Please cite the following paper for using this dataset: 
+
 Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention, Yihong Zhou, Chaimaa Essayeh, Sarah Darby, Thomas Morstyn, 2023
