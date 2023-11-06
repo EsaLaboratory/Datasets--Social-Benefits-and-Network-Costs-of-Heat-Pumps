@@ -2,6 +2,8 @@
 
 This repo contains the case study outputs for our paper *"Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention"*. 
 
+---
+
 All these results are stored in "all_paper_outputs.csv".
 
 This file has 41 rows, corresponding to the 32 Scotland LAs and 9 England government regions studied here. The columns include the following: 
@@ -19,6 +21,8 @@ This file has 41 rows, corresponding to the 32 Scotland LAs and 9 England govern
 12. number\_of\_PS: the number of PSs in the region.
 
 Please reach our paper for more details and the methodology behind.
+
+---
 
 Please cite the following paper for using this dataset: 
 
