@@ -1,6 +1,6 @@
 # Social-Benefits-and-Network-Costs-of-Heat-Pumps 
 
-This repo contains the case study outputs for our paper "Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention". 
+This repo contains the case study outputs for our paper *"Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention"*. 
 
 All these results are stored in "all_paper_outputs.csv".
 
@@ -22,4 +22,4 @@ Please reach our paper for more details and the methodology behind.
 
 Please cite the following paper for using this dataset: 
 
-Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention, Yihong Zhou, Chaimaa Essayeh, Sarah Darby, Thomas Morstyn, 2023
+*"Evaluating the Social Benefits and Network Costs of Heat-Pumps as an Energy Crisis Intervention, Yihong Zhou, Chaimaa Essayeh, Sarah Darby, Thomas Morstyn, 2023"*
