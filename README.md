@@ -19,3 +19,6 @@ This file has 41 rows, corresponding to the 32 Scotland LAs and 9 England govern
 12. number\_of\_PS: the number of PSs in the region.
 
 Please reach our paper for more details and the methodology behind.
+
+Please cite the following paper for using this dataset: 
+xxx
